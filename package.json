@@ -1,0 +1,14 @@
+{
+  "name": "kioo-sticker-bot",
+  "version": "1.0.0",
+  "description": "Kioo WhatsApp Sticker Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "sharp": "latest"
+  }
+}
