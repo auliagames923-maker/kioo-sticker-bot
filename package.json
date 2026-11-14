@@ -2,6 +2,7 @@
   "name": "kioo-sticker-bot",
   "version": "1.0.0",
   "description": "Kioo WhatsApp Sticker Bot",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
